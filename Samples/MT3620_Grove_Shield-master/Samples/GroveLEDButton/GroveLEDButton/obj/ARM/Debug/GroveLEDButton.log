@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 19.5.4.53731
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Tuesday, 18 June 2019 12:50:29 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         fda1b0a6-e2f0-47b1-b0bd-161933bd3479
+      Image ID:             4df41749-fc76-4b2c-9555-845a8203cbdb
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           GroveLEDButton
+      Built On (UTC):       18.06.2019 12:50:30
+      Built On (Local):     18.06.2019 14:50:30
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\MT3620_Grove_Shield-master\Samples\GroveLEDButton\GroveLEDButton\bin\ARM\Debug\GroveLEDButton.imagepackage 
+  Command completed successfully in 00:00:01.0038045. 

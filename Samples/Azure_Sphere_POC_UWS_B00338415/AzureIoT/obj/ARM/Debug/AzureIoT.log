@@ -1,0 +1,62 @@
+﻿  In file included from main.c:57:0:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning :  "MT3620_RDB_HEADER2_ISU0_UART" redefined
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning :  #define MT3620_RDB_HEADER2_ISU0_UART MT3620_UART_ISU0
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning : In file included from ..\..\..\Hardware\mt3620_rdb\inc/hw\sample_hardware.h:13:0,
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning :                  from main.c:45:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning : ..\..\..\Hardware\mt3620_rdb\inc/hw\mt3620_rdb.h:208:0: note: this is the location of the previous definition
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning :  #define MT3620_RDB_HEADER2_ISU0_UART MT3620_ISU0_UART
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(102): warning : In file included from main.c:57:0:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning :  "MT3620_RDB_HEADER3_ISU3_UART" redefined
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning :  #define MT3620_RDB_HEADER3_ISU3_UART MT3620_UART_ISU3
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning : In file included from ..\..\..\Hardware\mt3620_rdb\inc/hw\sample_hardware.h:13:0,
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning :                  from main.c:45:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning : ..\..\..\Hardware\mt3620_rdb\inc/hw\mt3620_rdb.h:217:0: note: this is the location of the previous definition
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning :  #define MT3620_RDB_HEADER3_ISU3_UART MT3620_ISU3_UART
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(142): warning : In file included from main.c:57:0:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning :  "MT3620_RDB_HEADER4_ISU1_UART" redefined
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning :  #define MT3620_RDB_HEADER4_ISU1_UART MT3620_UART_ISU1
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning : In file included from ..\..\..\Hardware\mt3620_rdb\inc/hw\sample_hardware.h:13:0,
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning :                  from main.c:45:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning : ..\..\..\Hardware\mt3620_rdb\inc/hw\mt3620_rdb.h:211:0: note: this is the location of the previous definition
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning :  #define MT3620_RDB_HEADER4_ISU1_UART MT3620_ISU1_UART
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(153): warning : In file included from main.c:57:0:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning :  "MT3620_RDB_HEADER4_ISU2_UART" redefined
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning :  #define MT3620_RDB_HEADER4_ISU2_UART MT3620_UART_ISU2
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning : In file included from ..\..\..\Hardware\mt3620_rdb\inc/hw\sample_hardware.h:13:0,
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning :                  from main.c:45:
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning : ..\..\..\Hardware\mt3620_rdb\inc/hw\mt3620_rdb.h:214:0: note: this is the location of the previous definition
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning :  #define MT3620_RDB_HEADER4_ISU2_UART MT3620_ISU2_UART
+C:\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library/mt3620_rdb.h(156): warning : main.c: In function 'SendData':
+main.c(638,6): warning :  variable 'len' set but not used [-Wunused-but-set-variable]
+main.c(638,6): warning :   int len = snprintf(shouldTempBuffer, 20, "%d", shouldTemp);
+main.c(638,6): warning :       ^~~
+  Validating project app_manifest.json
+  app_manifest.json IoT Hub/Central parameters exist.
+  Azure Sphere Utility version 19.5.4.53731
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Tuesday, 25 June 2019 07:43:43 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         819255ff-8640-41fd-aea7-f85d34c491d5
+      Image ID:             14d5a4e9-1493-44a1-9d52-8e2f6e56c54c
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           AzureIoT
+      Built On (UTC):       25.06.2019 07:43:44
+      Built On (Local):     25.06.2019 09:43:44
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\Azure_Sphere_POC_UWS_B00338415_Final\Samples\Azure_Sphere_POC_UWS_B00338415\AzureIoT\bin\ARM\Debug\AzureIoT.imagepackage 
+  Command completed successfully in 00:00:00.8876271. 

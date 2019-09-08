@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name": "AzureIoT",
+  "ComponentId": "819255ff-8640-41fd-aea7-f85d34c491d5",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [ "0ne0006296A" ],
+  "Capabilities": {
+    "AllowedConnections": [ "global.azure-devices-provisioning.net", "iotc-a1a7cbc2-b409-46ea-84e4-51e244d3507d.azure-devices.net" ],
+    "Gpio": [ "$BUTTON_A", "$BUTTON_B", "$AUTOMATIC_BUTTON", "$AUTOMATIC_BUTTON_LED", "$HEAT_SWITCH", "$HEAT_SWITCH_STATUS_LED" ],
+    "Uart": [ "$UART_Grove_Shield" ],
+    "DeviceAuthentication": "dc408e07-88e5-4617-9ad7-2830444c049f"
+  },
+  "ApplicationType": "Default"
+}

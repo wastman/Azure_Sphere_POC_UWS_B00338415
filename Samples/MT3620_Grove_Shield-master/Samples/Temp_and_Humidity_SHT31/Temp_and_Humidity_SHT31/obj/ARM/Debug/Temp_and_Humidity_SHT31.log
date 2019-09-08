@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 19.5.4.53731
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Tuesday, 18 June 2019 17:23:05 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         16cf357f-d34e-4e47-ac3b-37eeaef09c1a
+      Image ID:             9b043114-79ce-4a6a-87e3-556666e66cb0
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           Temp_and_Humidity_SHT31
+      Built On (UTC):       18.06.2019 17:23:06
+      Built On (Local):     18.06.2019 19:23:06
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\MT3620_Grove_Shield-master\Samples\Temp_and_Humidity_SHT31\Temp_and_Humidity_SHT31\bin\ARM\Debug\Temp_and_Humidity_SHT31.imagepackage 
+  Command completed successfully in 00:00:01.1772015. 

@@ -1,0 +1,4 @@
+C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/GPIO_RTApp_MT3620_BareMetal.dir
+C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/MakeImage.dir
+C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/edit_cache.dir
+C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/rebuild_cache.dir

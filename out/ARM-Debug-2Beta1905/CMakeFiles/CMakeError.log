@@ -1,0 +1,87 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+cc1.exe: fatal error: CMakeCCompilerId.c: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+arm-none-eabi-gcc.exe: error: CMakeCCompilerId.c: No such file or directory
+arm-none-eabi-gcc.exe: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/microsoft visual studio/2017/community/linux/gcc_arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): In function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_b32ae"
+ninja: error: build.ninja:40: unknown build rule 'C_COMPILER__cmTC_b32ae'
+build CMakeFiles/cmTC_b32ae.dir/testCCompiler.c.obj: C_COMPILER__cmTC_b3...
+                                                   ^ near here
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/program files (x86)/microsoft visual studio/2017/community/linux/gcc_arm/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib\libc.a(lib_a-exit.o): In function `exit':
+exit.c:(.text.exit+0x2c): undefined reference to `_exit'
+collect2.exe: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_06f7d"
+ninja: error: loading 'build.ninja': Das System kann die angegebene Datei nicht finden.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_7dcff"
+[1/2] Building C object CMakeFiles\cmTC_7dcff.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C static library libcmTC_7dcff.a
+FAILED: libcmTC_7dcff.a 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E remove libcmTC_7dcff.a && "" qc libcmTC_7dcff.a  CMakeFiles\cmTC_7dcff.dir\CMakeCCompilerABI.c.obj && "" libcmTC_7dcff.a && cd ."
+Der Befehl """" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+ninja: build stopped: subcommand failed.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_01861"
+ninja: error: loading 'build.ninja': Das System kann die angegebene Datei nicht finden.
+
+
+
+

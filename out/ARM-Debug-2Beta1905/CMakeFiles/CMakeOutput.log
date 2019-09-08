@@ -1,0 +1,118 @@
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.17763 - AMD64
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.17763 - AMD64
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CMakeCCompilerId.o"
+
+The target system is: Generic -  - 
+The host system is: Windows - 10.0.17763 - AMD64
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_d55f5"
+[1/2] Building C object CMakeFiles/cmTC_d55f5.dir/testCCompiler.c.obj
+[2/2] Linking C static library libcmTC_d55f5.a
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Linux/gcc_arm/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/3.12.18081601-MSVC_2/CompilerIdC/CMakeCCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_25319"
+[1/2] Building C object CMakeFiles/cmTC_25319.dir/testCCompiler.c.obj
+[2/2] Linking C static library libcmTC_25319.a
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_2b051"
+[1/2] Building C object CMakeFiles/cmTC_2b051.dir/feature_tests.c.obj
+[2/2] Linking C static library libcmTC_2b051.a
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_3aa2c"
+[1/2] Building C object CMakeFiles/cmTC_3aa2c.dir/feature_tests.c.obj
+[2/2] Linking C static library libcmTC_3aa2c.a
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: C:/azure-sphere-samples/out/ARM-Debug-2Beta1905/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" "cmTC_30204"
+[1/2] Building C object CMakeFiles/cmTC_30204.dir/feature_tests.c.obj
+[2/2] Linking C static library libcmTC_30204.a
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
